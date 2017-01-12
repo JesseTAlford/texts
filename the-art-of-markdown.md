@@ -5,9 +5,8 @@ whitespace is rendered out.
 You can put each clause
 of each sentence
 on its own line.
-Of course it is possible to put each sentence, and all its clauses, on a line,
-but,
-should you?
+Of course it is possible to put each sentence, and all its clauses, on a line.
+Should you?
 
 The basic unit of git is the line.
 The basic unit of prose is the sentence.
@@ -31,10 +30,8 @@ Either way, you can achieve something special.
 Prose becomes more like code
 when you use tools designed for code
 and let them shape your choices.
-Now,
-this may not be immediately recognizable as a benefit.
-But,
-with prose as with code,
+This may not be immediately recognizable as a benefit.
+With prose as with code,
 readability is essential to industrial use.
 With prose as with code,
 smaller functions/sentences are easier to understand.
