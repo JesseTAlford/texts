@@ -1,4 +1,18 @@
 # The Art of Markdown
+<The way this document looks in the raw
+is intentional.
+For a discussion of the intention,
+Please see
+https://github.com/JesseTAlford/texts/blob/master/the-art-of-markdown.md>
+
+<The above comment is self-referential.
+If you were to put it
+in a different document
+that looks like this,
+it would not be.>
+
+[comment]: # (The above two comments appear in the output html, though they are not rendered as text. This comment will not be, though it is clearly an abuse to utilize the reference-style link syntax this way, and though it would be a hassle to use a nice multi-line style in this format.)
+
 There is a particular style
 possible in formats where
 whitespace is rendered out.
