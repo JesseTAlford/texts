@@ -3,7 +3,7 @@
 is intentional.
 For a discussion of the intention,
 Please see
-https://github.com/JesseTAlford/texts/blob/master/the-art-of-markdown.md>
+https://github.com/anEXPer/texts/blob/master/the-art-of-markdown.md>
 
 <The above comment is self-referential.
 If you were to put it
