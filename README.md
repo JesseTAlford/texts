@@ -1,6 +1,6 @@
 # Texts
 This repository is
-a home for a collection
+home to a collection
 of useful ideas.
 The emphasis of the collection
 is on written English
